@@ -23,8 +23,8 @@ Run the app by clicking Run on Android Studio. Choose any Android Device as your
 
 ## Project Point Distribution
 
-| Points       | Topic          | -                  |
-| -------------|----------------|--------------------|
+| Points       | Topic                                                          | Driver/Nagivator |
+| -------------|----------------------------------------------------------------|------------------|
 |  150         |  README.md                                                     | H.Y./P.F.        |
 |  100         |  Learning Android                                              | H.Y./P.F.        |
 |  50          |  Intro Screen (2nd Activity)                                   | H.Y./P.F.        |
@@ -32,10 +32,12 @@ Run the app by clicking Run on Android Studio. Choose any Android Device as your
 |  150         |  (Inital) Binary to Decimal Conversion                         | P.F./H.Y.        |
 |  100         |  Decimal to Octal Conversion                                   | P.F./H.Y.        |
 |  100         |  Binary to Octal Conversion                                    | P.F./H.Y.        |
+|  100         |  Decimal to Hexadecimal Conversion                             | P.F./H.Y.        |
 |  100         |  Graphical Intro Screen                                        | P.F./H.Y.        |
 |  100         |  Basic App Logic/Structure (Quality Assurance stuff)           | H.Y./P.F.        |
 |  50          |  Transparency for the written code via Comments                | P.F./H.Y.        |
 |  25          |  Leaving legacy code for next generation of students           | H.Y./P.F.        |
+| Total        |  1125 Points                                                   | -                |
 
 Learning Android Explanation: Beginning the app/learning how android studio works in regards to activities/manifest/xml
 
