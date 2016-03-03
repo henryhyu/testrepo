@@ -1,9 +1,9 @@
-## cs56-android-quiz
+# cs56-android-quiz
 
-# project history
+## project history
 Creators: Henry Yu, Phillip Fry
 
-Instructor: Phillip Conrad
+Instructor: Phillip Conrad <return>
 Mentor: Allison Shedden
 
 Winter 2016, CS56, UCSB
