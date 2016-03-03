@@ -3,9 +3,10 @@
 ## project history
 Creators: Henry Yu, Phillip Fry
 
-Instructor: Phillip Conrad <return>
+Instructor: Phillip Conrad 
+
 Mentor: Allison Shedden
 
 Winter 2016, CS56, UCSB
-testing only
-sda
+
+
