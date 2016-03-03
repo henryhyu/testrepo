@@ -25,29 +25,20 @@ Run the app by clicking Run on Android Studio. Choose any Android Device as your
 
 | Points       | Topic          | -                  |
 | -------------|----------------|--------------------|
-|  150         |  README.md     | Phillip Fry        |
-|  100         |  Beginning the app/learning how android studio works in regards to activities/manifest/xml | Phillip Fry        |
-|  50          |                | Phillip Fry        |
-|  100         |        | Phillip Fry        |
-|  150         |        | Phillip Fry        |
-|  100         |        | Phillip Fry        |
-|  100         |        | Phillip Fry        |
+|  150         |  README.md                                                     | H.Y./P.F.        |
+|  100         |  Learning Android                                              | H.Y./P.F.        |
+|  50          |  Intro Screen (2nd Activity)                                   | H.Y./P.F.        |
+|  100         |  Calculator                                                    | H.Y./P.F.        |
+|  150         |  (Inital) Binary to Decimal Conversion                         | P.F./H.Y.        |
+|  100         |  Decimal to Octal Conversion                                   | P.F./H.Y.        |
+|  100         |  Binary to Octal Conversion                                    | P.F./H.Y.        |
+|  100         |  Graphical Intro Screen                                        | P.F./H.Y.        |
+|  100         |  Basic App Logic/Structure (Quality Assurance stuff)           | H.Y./P.F.        |
+|  50          |  Transparency for the written code via Comments                | P.F./H.Y.        |
+|  25          |  Leaving legacy code for next generation of students           | H.Y./P.F.        |
+
+Learning Android Explanation: Beginning the app/learning how android studio works in regards to activities/manifest/xml
+
+Basic App Logic/Structure Explanation: ie. Making sure text boxes are not empty, check boxes are checked, radio buttons are clicked. Making sure buttons go to the right activity, error handling, etc. making sure works on multiple android devices, etc.
 
 
-~150 for the readme
-~100 for beginning the app/learning how android studio works in regards to activities/manifest/xml fun things
-~50 for the intro screen
-~100 for the calculator
-~150 for the binary to decimal conversion 
-
-~100 for decimal -> octal
-~100 for binary -> octal
-~100 decimal -> hexadecimal
-
-~100 for Graphical Intro Screen
-~100 Basic App Logic/Structure ie. Making sure text boxes are not empty, check boxes are checked, radio buttons are clicked. Making sure buttons go to the right activity, error handling, etc. making sure works on multiple android devices, etc. (Quality Assurance stuff)
-
-~50 commenting code, transparency for the written code
-~25 leaving legacy code (what should be improved on
-
-total: 1125
