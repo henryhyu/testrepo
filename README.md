@@ -25,12 +25,13 @@ Run the app by clicking Run on Android Studio. Choose any Android Device as your
 
 | Points       | Topic          | -                  |
 | -------------|----------------|--------------------|
-|  150    |        | Phillip Fry        |
-|  150    |        | Phillip Fry        |
-|  150    |        | Phillip Fry        |
-|  150    |        | Phillip Fry        |
-|  150    |        | Phillip Fry        |
-|  150    |        | Phillip Fry        |
+|  150         |  README.md     | Phillip Fry        |
+|  100         |  Beginning the app/learning how android studio works in regards to activities/manifest/xml | Phillip Fry        |
+|  50          |                | Phillip Fry        |
+|  100         |        | Phillip Fry        |
+|  150         |        | Phillip Fry        |
+|  100         |        | Phillip Fry        |
+|  100         |        | Phillip Fry        |
 
 
 ~150 for the readme
