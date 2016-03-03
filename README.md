@@ -2,10 +2,11 @@
 
 ## Project History
 
-| Day     | Meal    | Price |
-| --------|---------|-------|
-| Monday  | pasta   | $6    |
-| Tuesday | chicken | $8    |
+| Creators     | Henry Yu       | Phillip Fry        |
+| -------------|----------------|--------------------|
+| Instructors  | Phillip Conrad | Allison Shedded    |
+| -------------|----------------|--------------------|
+| Winter 2016  | CS 56          | UCSB               |
 
 Creators: Henry Yu, Phillip Fry
 
