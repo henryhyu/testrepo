@@ -3,9 +3,7 @@
 ## Project History
 
 | Creators     | Henry Yu       | Phillip Fry        |
-| -------------|----------------|--------------------|
 | Instructors  | Phillip Conrad | Allison Shedded    |
-| -------------|----------------|--------------------|
 | Winter 2016  | CS 56          | UCSB               |
 
 Creators: Henry Yu, Phillip Fry
