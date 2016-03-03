@@ -25,9 +25,12 @@ Run the app by clicking Run on Android Studio. Choose any Android Device as your
 
 | Points       | Topic          | -                  |
 | -------------|----------------|--------------------|
-|      | Henry Yu       | Phillip Fry        |
-| Instructors  | Phillip Conrad | Allison Shedded    |
-| Winter 2016  | CS 56          | UCSB               |
+|  150    |        | Phillip Fry        |
+|  150    |        | Phillip Fry        |
+|  150    |        | Phillip Fry        |
+|  150    |        | Phillip Fry        |
+|  150    |        | Phillip Fry        |
+|  150    |        | Phillip Fry        |
 
 
 ~150 for the readme
