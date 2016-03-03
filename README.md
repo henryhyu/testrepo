@@ -1,6 +1,12 @@
 # cs56-android-quiz
 
 ## Project History
+
+| Day     | Meal    | Price |
+| --------|---------|-------|
+| Monday  | pasta   | $6    |
+| Tuesday | chicken | $8    |
+
 Creators: Henry Yu, Phillip Fry
 
 Instructor: Phillip Conrad 
